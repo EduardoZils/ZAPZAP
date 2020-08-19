@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "203911409279",
+    "firebase_url": "https://whatsappz-8106e.firebaseio.com",
+    "project_id": "whatsappz-8106e",
+    "storage_bucket": "whatsappz-8106e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203911409279:android:eb9607c3ceab37226c194a",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_zils"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203911409279-l8198v2kumm7vli9a9k1cn188uhcvpo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt5X6JGw3N7E4dtaYWyAWC_VvrnA9OIhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203911409279-l8198v2kumm7vli9a9k1cn188uhcvpo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
